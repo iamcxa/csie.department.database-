@@ -1,0 +1,49 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Bee.Web
+</name>
+</assembly>
+<members>
+<member name="T:Bee.Web.WebControls.TBDropDownDate">
+	<summary>
+ 日期下拉清單輸入器。
+ </summary>
+</member><member name="T:Bee.Web.WebControls.TBMediaPlayer.EUIMode">
+	<summary>
+ 顯示界面模式。
+ </summary>
+</member><member name="P:Bee.Web.WebControls.TBMediaPlayer.Url">
+	<summary>
+ 播放檔案來源。
+ </summary>
+</member><member name="P:Bee.Web.WebControls.TBMediaPlayer.AutoStart">
+	<summary>
+ 是否自動播放。
+ </summary>
+</member><member name="P:Bee.Web.WebControls.TBMediaPlayer.UIMode">
+	<summary>
+ 顯示界面模式。
+ </summary>
+</member><member name="M:Bee.Web.WebControls.TBMediaPlayer.AddAttributesToRender(System.Web.UI.HtmlTextWriter)">
+	<summary>
+ 覆寫 AddAttributesToRender 方法。
+ </summary>
+</member><member name="M:Bee.Web.WebControls.TBMediaPlayer.AddParam(System.String,System.String)">
+	<summary>
+ 加入參數。
+ </summary>
+	<param name="Name">參數名稱。</param>
+	<param name="Value">參數值。</param>
+</member><member name="T:Bee.Web.TBResource">
+	<summary>
+ 引用資源使用類別。
+ </summary>
+</member><member name="M:Bee.Web.WebControls.TBButton.Render(System.Web.UI.HtmlTextWriter)">
+	<summary>
+ 覆寫 Render 方法。
+ </summary>
+</member>
+</members>
+</doc>
