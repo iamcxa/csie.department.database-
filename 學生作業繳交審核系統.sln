@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "學生作業繳交審核系統", "F:\學生作業繳交審核系統\", "{44A2CA24-89A8-4DFC-9ECF-05CC7EA47020}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.PhysicalPath = "F:\學生作業繳交審核系統\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\學生作業繳交審核系統\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.VirtualPath = "/學生作業繳交審核系統"
+		Release.AspNetCompiler.Debug = "False"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.PhysicalPath = "F:\學生作業繳交審核系統\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\學生作業繳交審核系統\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.VirtualPath = "/學生作業繳交審核系統"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		VWDPort = "11240"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44A2CA24-89A8-4DFC-9ECF-05CC7EA47020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A2CA24-89A8-4DFC-9ECF-05CC7EA47020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
